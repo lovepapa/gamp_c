@@ -67,12 +67,12 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNINGS;ENAGLO;ENACMP;ENAGAL;ENAQZS;NFREQ=3</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>F:\F\GNSS_PPP_soft\PPP_soft\GAMP\mannual_GAMP\GAMP_src\Windows\pthreads-w32-2-9-1-release;F:\F\GNSS_PPP_soft\PPP_soft\GAMP\mannual_GAMP\GAMP_src\Windows\pthreads-w32-2-9-1-release\Pre-built.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\txy\Source\Repos\GAMP_src\pthreads-w32-2-9-1-release\Pre-built.2;C:\Users\txy\Source\Repos\GAMP_src;C:\Users\txy\Source\Repos\GAMP_src\pthreads-w32-2-9-1-release;F:\F\GNSS_PPP_soft\PPP_soft\GAMP\mannual_GAMP\GAMP_src\Windows\pthreads-w32-2-9-1-release;F:\F\GNSS_PPP_soft\PPP_soft\GAMP\mannual_GAMP\GAMP_src\Windows\pthreads-w32-2-9-1-release\Pre-built.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <DebugInformationFormat>OldStyle</DebugInformationFormat>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\pthreads-w32-2-9-1-release\Pre-built.2\lib\x86;C:\Users\Administrator\Desktop\PPP\GAMP\mannual_GAMP\GAMP_src\Windows\pthreads-w32-2-9-1-release\Pre-built.2\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\txy\Source\Repos\GAMP_src\pthreads-w32-2-9-1-release\Pre-built.2\lib\x86;C:\pthreads-w32-2-9-1-release\Pre-built.2\lib\x86;C:\Users\Administrator\Desktop\PPP\GAMP\mannual_GAMP\GAMP_src\Windows\pthreads-w32-2-9-1-release\Pre-built.2\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>pthreadVSE2.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>

@@ -72,11 +72,8 @@ static int proccfgfile(char cfgfile[])
  int main(int argc, char **argv)
 {
 	//char cfgfile[1000]="C:\\mannual_GAMP\\Examples\\2017244\\gamp.cfg";
-	//char cfgfile[1000] = "C:\\Users\\Administrator\\Desktop\\PPP\\GAMP\\mannual_GAMP\\Examples\\2017244\\gamp.cfg";
-	//char cfgfile[1000] = "G:\\GNSS_data\\data_PPP\\2015121_test\\gamp.cfg";
-	//char cfgfile[1000] = "G:\\GNSS_data\\data_PPP\\2018245\\gamp.cfg";
-	//char cfgfile[1000] = "G:\\GNSS_data\\data_PPP\\2018124\\gamp.cfg";
-	char cfgfile[1000] = "G:\\GNSS_data\\data_PPP\\2019002_PPP\\gamp.cfg";
+	char cfgfile[1000] = "C:\\Users\\Administrator\\Desktop\\PPP\\GAMP\\mannual_GAMP\\Examples\\2017244\\gamp.cfg";
+	//char cfgfile[1000] = "G:\\GNSS_data\\data_PPP\\2019002_PPP\\gamp.cfg";
     //char *cfgfile;
 	long t1,t2;
 
